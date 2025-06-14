@@ -14,6 +14,6 @@ Aplikasi kalkulator sederhana berbasis Flutter dengan fitur dasar perhitungan ma
 - ketik "flutter run" untuk menjalankan aplikasi
 ## Demo aplikasi
 
-
+https://github.com/RepieAFK/flutter_kalkulator/issues/1#issue-3145896171
 
 ## create by Reyvan Sava Giovanni (2025)
